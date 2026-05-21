@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "category": "动物",
+    "word": "Cat",
+    "chinese": "猫",
+    "image": "https://via.placeholder.com/150?text=Cat",
+    "audio": "https://www.soundjay.com/misc/sounds/bell-ringing-05.mp3"
+  },
+  {
+    "id": 2,
+    "category": "水果",
+    "word": "Apple",
+    "chinese": "苹果",
+    "image": "https://via.placeholder.com/150?text=Apple",
+    "audio": "https://www.soundjay.com/misc/sounds/bell-ringing-01.mp3"
+  },
+  {
+    "id": 3,
+    "category": "动物",
+    "word": "Dog",
+    "chinese": "狗",
+    "image": "https://via.placeholder.com/150?text=Dog",
+    "audio": "https://www.soundjay.com/misc/sounds/bell-ringing-02.mp3"
+  }
+]
